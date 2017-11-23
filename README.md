@@ -2,9 +2,9 @@
 
 ## RU
 
-Плагин DataLife Engine для sape.ru **[v0.01](https://github.com/sape-ru/client-code-dle/blob/v0.01/plugin/dle_sape_ru-v0.01.zip?raw=true)**
+Плагин DataLife Engine для sape.ru **[v0.02](https://github.com/sape-ru/client-code-dle/blob/v0.02/plugin/dle_sape_ru-v0.02.zip?raw=true)**
 
-- встроенная версия клиентского кода Sape: 1.3.8
+- встроенная версия клиентского кода Sape: 1.3.9
 
 ### Системные требования
 Версия DataLife Engine: 11 (см. [остальные требования](https://dle-news.ru/request.html))
@@ -18,8 +18,8 @@
 
 ## EN
 
-DataLife Engine plugin for sape.ru webmaster services integration **[v0.01](https://github.com/sape-ru/client-code-dle/blob/v0.01/plugin/dle_sape_ru-v0.01.zip?raw=true)**
-- built in version of sape.ru's client code: 1.3.8
+DataLife Engine plugin for sape.ru webmaster services integration **[v0.02](https://github.com/sape-ru/client-code-dle/blob/v0.02/plugin/dle_sape_ru-v0.02.zip?raw=true)**
+- built in version of sape.ru's client code: 1.3.9
 
 ### System requirements
 - DataLife Engine version: 11 (see [other requirements](https://dle-news.ru/request.html)) 
